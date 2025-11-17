@@ -1,0 +1,24 @@
+# Build directories
+bin/
+obj/
+
+# Logs
+*.log
+logs/
+
+# Publish output
+publish/
+**/PublishProfiles/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Sensitive configs
+appsettings.Development.json
+
+
